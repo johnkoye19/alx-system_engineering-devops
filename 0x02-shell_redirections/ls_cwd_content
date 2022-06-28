@@ -1,0 +1,15 @@
+total 18
+drwxr-xr-x 1 SOMTO 197610  0 Jun 28 03:46 .
+drwxr-xr-x 1 SOMTO 197610  0 Jun 28 02:49 ..
+-rwxr-xr-x 1 SOMTO 197610 34 Jun 28 02:49 0-hello_world
+-rwxr-xr-x 1 SOMTO 197610 31 Jun 28 02:49 1-confused_smiley
+-rwxr-xr-x 1 SOMTO 197610 30 Jun 28 02:49 2-hellofile
+-rwxr-xr-x 1 SOMTO 197610 41 Jun 28 02:49 3-twofiles
+-rwxr-xr-x 1 SOMTO 197610 38 Jun 28 02:49 4-lastlines
+-rwxr-xr-x 1 SOMTO 197610 37 Jun 28 02:49 5-firstlines
+-rwxr-xr-x 1 SOMTO 197610 43 Jun 28 02:49 6-third_line
+-rwxr-xr-x 1 SOMTO 197610 99 Jun 28 03:33 7-file
+-rwxr-xr-x 1 SOMTO 197610 36 Jun 28 03:45 8-cwd_state
+-rw-r--r-- 1 SOMTO 197610 10 Jun 28 02:49 README.md
+-rw-r--r-- 1 SOMTO 197610  0 Jun 28 02:49 iacta
+-rw-r--r-- 1 SOMTO 197610  0 Jun 28 03:46 ls_cwd_content
