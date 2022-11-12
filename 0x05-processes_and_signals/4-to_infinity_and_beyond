@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #prints to infinity
 count=1
-while [ $count -eq 1 ];
+while [ $count ];
 do
 echo "To infinity and beyond"
 sleep 5
