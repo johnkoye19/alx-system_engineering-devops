@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# this kills using kill -9
+#displays kill
+kill -9 "$(pgrep -f 7-highlander)"
