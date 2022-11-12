@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+#print using ps-aux
+
+ps aux
